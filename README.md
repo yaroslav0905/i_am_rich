@@ -5,4 +5,4 @@ first application for iOS
 
 [Ссылка на курс]: https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
-Ссылка на курс [(https://www.udemy.com/course/ios-13-app-development-bootcamp/)]([http://example.com/](https://www.udemy.com/course/ios-13-app-development-bootcamp/))
+Ссылка на курс [https://www.udemy.com/course/ios-13-app-development-bootcamp/](http://example.com/](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
