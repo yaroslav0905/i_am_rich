@@ -1,0 +1,3 @@
+*.js linguist-language=iOS
+*.css linguist-language=iOS
+*.html linguist-language=iOS
